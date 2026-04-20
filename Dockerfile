@@ -1,4 +1,4 @@
-# set the base image 
+# set the base image to an alpine image
 
 FROM nginx:alpine 
 
